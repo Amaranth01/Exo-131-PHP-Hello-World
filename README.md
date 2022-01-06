@@ -59,7 +59,3 @@ en plus on l'écrit exactement comme en Javascript ! */
 
  Mettez le premier mot en minuscule puis chaque premiere lettre des mots suivants en majuscules, c'est une façon trés
  élégante d'écrire votre code.
-
-
-
-
